@@ -1,0 +1,60 @@
+Harry Potter
+J.K. Rowling
+Fantasy
+1
+---
+Lord of the Rings
+J.R.R Tolkien
+Mythological Fiction
+1
+---
+War and Peace
+Leo Tolstoy
+Fiction
+1
+---
+To Kill a Mockingbird
+Harper Lee
+Historical Fiction
+1
+---
+A Thousand Splendid Suns
+Khalid Hosseini
+Historical Fiction
+1
+---
+Pride and Prejudice
+Jane Austen
+Romantic Fiction
+1
+---
+The Great Gatsby
+Scott Fitzgerald
+Literary Fiction
+1
+---
+Gone Girl
+Gillian Flynn
+Mystery
+1
+---
+Brave New World
+Aldous Huxley
+Science Fiction
+1
+---
+Beloved
+Toni Morrison
+Historical Fiction
+1
+---
+Science Book
+Ihsan Khan
+edu
+1
+---
+English Book
+Ihsan Khan
+Education
+1
+---
