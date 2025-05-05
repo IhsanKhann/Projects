@@ -1,0 +1,30 @@
+Q:The sun rises in the west.
+False
+---------------------------
+Q:Water freezes at 0 degrees Celsius.
+True
+---------------------------
+Q:C++ supports object-oriented programming.
+True
+---------------------------
+Q:Python is a compiled language.
+False
+---------------------------
+Q:Electric current is measured in volts.
+False
+---------------------------
+Q:The earth revolves around the sun.
+True
+---------------------------
+Q:Linux is a closed-source operating system.
+False
+---------------------------
+Q:Bananas are berries.
+True
+---------------------------
+Q:Gold is heavier than silver.
+True
+---------------------------
+Q:A triangle always has four sides.
+False
+---------------------------

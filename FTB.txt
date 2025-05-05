@@ -1,0 +1,30 @@
+Q:The largest planet in our solar system is __.
+Jupiter
+---------------------------
+Q:The chemical symbol for oxygen is __.
+O
+---------------------------
+Q:The author of 'Romeo and Juliet' is __.
+Shakespeare
+---------------------------
+Q:Photosynthesis occurs in the __ of a plant cell.
+Chloroplast
+---------------------------
+Q:The programming language __ was developed by Bjarne Stroustrup.
+C++
+---------------------------
+Q:The human heart has __ chambers.
+4
+---------------------------
+Q:The fastest land animal is the __.
+Cheetah
+---------------------------
+Q:Mount Everest is located in __.
+Nepal
+---------------------------
+Q:The binary number system uses __ and __.
+0,1
+---------------------------
+Q:Water is made of __ and __.
+Hydrogen,Oxygen
+---------------------------
